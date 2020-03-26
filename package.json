@@ -1,0 +1,21 @@
+{
+  "name": "import",
+  "displayName": "import",
+  "publisher": "icaroharry",
+  "description": "Import ES6 modules like a pro 👩🏽‍💻",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript, javascriptreact",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
