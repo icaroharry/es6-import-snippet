@@ -2,8 +2,9 @@
   "name": "import",
   "displayName": "import",
   "publisher": "icaroharry",
+  "repository": {},
   "description": "Import ES6 modules like a pro 👩🏽‍💻",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.43.0"
   },
