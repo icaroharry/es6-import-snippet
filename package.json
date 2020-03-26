@@ -2,7 +2,11 @@
   "name": "import",
   "displayName": "import",
   "publisher": "icaroharry",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icaroharry/es6-import-snippet"
+  },
+  "icon": "assets/logo.png",
   "description": "Import ES6 modules like a pro 👩🏽‍💻",
   "version": "1.0.0",
   "engines": {
@@ -14,8 +18,8 @@
   "contributes": {
     "snippets": [
       {
-        "language": "javascript, javascriptreact",
-        "path": "./snippets/snippets.json"
+        "language": "javascript",
+        "path": "./snippets/javascript.json"
       }
     ]
   }
